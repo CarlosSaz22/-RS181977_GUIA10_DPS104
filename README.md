@@ -5,4 +5,12 @@ Link de expo :
 <br>
 Proyecto market: https://snack.expo.dev/@saz22/market 
 <br>
-Ejercicio complementario :
+Usuario : Carlos
+<br>
+Contraseña: 123456
+<br>
+Ejercicio complementario :https://snack.expo.dev/@saz22/complementario_guia10
+<br>
+Usuario : Carlos
+<br>
+Contraseña: 12345
